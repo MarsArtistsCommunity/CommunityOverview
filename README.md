@@ -1,19 +1,19 @@
 ![Mars Artists Community](https://cloud.githubusercontent.com/assets/9756546/11696333/baf22850-9e81-11e5-8bfb-c9a452885ef3.png)
 
 
-##ABOUT
+###ABOUT
 
 
 
-##FAQ
+###FAQ
 
 
 
-##TO Do
+###TO Do
 
 
 
-##SUGGESTIONS
+###SUGGESTIONS
 
 
 
