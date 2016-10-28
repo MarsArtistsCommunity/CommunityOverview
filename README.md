@@ -18,6 +18,7 @@ Sure. Please join the Mars Artists Community, be proud of your contributions. Ev
 **Can we upload models which were not made in Maya?**
 Sure. If you do not have access to Maya please consider exporting your work as .obj or .stl files. (Alternatively just upload whatever format is easiest for you...there are many free online file conversion services others can use.) If you would like to learn Maya, Autodesk offers free 30 day trials and student versions here: http://www.autodesk.com/education/free-software/maya 
 
+**What if we don't know how you use Maya?**
 Excellent free tutorials are available through Autodesk itself and of course via YouTube. (Don't worry too much about learning the entire Maya toolset/workflow...just learn what you need for immediate tasks at hand. If you're new, focus on polygon/SubD modeling, then texturing, file referencing, and rendering. Do not waste your time learning animation and particle effects before you've created a beautiful complex scene with gorgeous textures -- technology may improve by the time you decide to animate it, if at all.
 
 ##To Do
@@ -26,7 +27,7 @@ Start a project or join one then improve a component of the team's model. For ex
 By providing an open, free, well-documented archive for artists to share work which would otherwise die on a harddrive at the end of a particular commercail projects, we can enable future individual artists and well-established studios to more easily illustrate their own unique imagination at a quality much higher than any one person or studio can attain. The end result: vibrant, realistic depiction of civilization exanding through our universe.
 
 ##Licenses for All Material on this Site...
-CC0 Use it, abuse it. (Of course we'd appreciate it if you add your own models for vehicles, suits, habs and such to help maintain a permanent open-source repository. After your commercial project is completed, why let your work die on a hard drive? Why not sell your  models on [Turbosquid](http://turbosquid.com) then drop a copy here for free use by fellow artists for decades -- who knows, maybe you or your studio will want to use a model similar to yours again years from now, and, by that time, it may have been updated and improved by dozens of artists for free!
+[CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) Use it, abuse it. (Of course we'd appreciate it if you add your own models for vehicles, suits, habs and such to help maintain a permanent open-source repository. After your commercial project is completed, why let your work die on a hard drive? Why not sell your  models on [Turbosquid](http://turbosquid.com) then drop a copy here for free use by fellow artists for decades -- who knows, maybe you or your studio will want to use a model similar to yours again years from now, and, by that time, it may have been updated and improved by dozens of artists for free!
 
 ##SUGGESTIONS
 Any thoughts on how to improve this archive? Leave a note here or message our admins:
