@@ -8,6 +8,7 @@ Models from the archive can be repurposed for commercial use in stereoscopic VR,
 
 Importantly these models will also be realistic and technically literate -- depicting [SpaceX](http://www.spacex.com/mars), [Planet Labs](https://www.planet.com), [Planetary Resources](http://www.planetaryresources.com/#home-intro), [Lockheed Martin](http://www.lockheedmartin.com/us/what-we-do/space.html) and similar companies -- expanding civilization throughout our solar system. Rather than suffer through technically illiterate depictions of off-Earth civilization — like _The Martian’s_ Ares — films and games and media of all sorts could use these free basic models based upon real world technology -- which you contribute to. Depicting SpaceX. On Mars. Making the Interplanetary Transport System intuitive, widely known, _expected_. 
 
+
 ##FAQ
 **Can we use the models for commercial work?**
 
@@ -33,6 +34,11 @@ By providing an open, free, well-documented archive for artists to share work wh
 ##Licenses for All Material on this Site...
 [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) Use it, abuse it. (Of course we'd appreciate it if you add your own models for vehicles, suits, habs and such to help maintain a permanent open-source repository. After your commercial project is completed, why let your work die on a hard drive? Why not sell your  models on [Turbosquid](http://turbosquid.com) then drop a copy here for free use by fellow artists for decades -- who knows, maybe you or your studio will want to use a model similar to yours again years from now, and, by that time, it may have been updated and improved by dozens of artists for free!
 
+##SIMILAR RESOURCES
+[NASA 3D Resources](https://nasa3d.arc.nasa.gov)
+
 ##SUGGESTIONS
 Any thoughts on how to improve this archive? Leave a note here or message our admins:
 [@oceanbluesky](http://twitter.com/oceanbluesky)
+
+(If you would like to become an admin yourself please contact us!)
