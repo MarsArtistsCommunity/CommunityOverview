@@ -10,15 +10,19 @@ Importantly these models will also be realistic and technically literate -- depi
 
 ##FAQ
 **Can we use the models for commercial work?**
+
 Do whatever you want with them. If you return improved versions that would be helpful. (Just don't sell the original starter models unless you have either updated them significantly or are their original creator...though even that's really not a big deal. Just contribute.)
 
 **Are artists recognized for their contributions? Can we display models we've improved in our own personal portfolios?**
+
 Sure. Please join the Mars Artists Community, be proud of your contributions. Even if you've only marginally improved a model others have also contributed to, just note your specfic contributions in your portfolio -- for example with before/after shots.
 
 **Can we upload models which were not made in Maya?**
+
 Sure. If you do not have access to Maya please consider exporting your work as .obj or .stl files. (Alternatively just upload whatever format is easiest for you...there are many free online file conversion services others can use.) If you would like to learn Maya, Autodesk offers free 30 day trials and student versions here: http://www.autodesk.com/education/free-software/maya 
 
 **What if we don't know how you use Maya?**
+
 Excellent free tutorials are available through Autodesk itself and of course via YouTube. (Don't worry too much about learning the entire Maya toolset/workflow...just learn what you need for immediate tasks at hand. If you're new, focus on polygon/SubD modeling, then texturing, file referencing, and rendering. Do not waste your time learning animation and particle effects before you've created a beautiful complex scene with gorgeous textures -- technology may improve by the time you decide to animate it, if at all.
 
 ##To Do
