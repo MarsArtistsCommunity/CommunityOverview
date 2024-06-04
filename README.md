@@ -36,5 +36,3 @@ By providing an open, free, well-documented archive for artists to share work wh
 ##SUGGESTIONS
 Any thoughts on how to improve this archive? Leave a note here or message our admins:
 [@oceanbluesky](http://twitter.com/oceanbluesky)
-
-(If you would like to become an admin yourself please contact us!)
