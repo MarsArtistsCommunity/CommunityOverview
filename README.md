@@ -34,5 +34,5 @@ By providing an open, free, well-documented archive for artists to share work wh
 [NASA 3D Resources](https://nasa3d.arc.nasa.gov)
 
 ##SUGGESTIONS
-Any thoughts on how to improve this archive? Leave a note here or message our admins:
+Any thoughts on how to improve this archive? Leave a note here or message our admin:
 [@oceanbluesky](http://twitter.com/oceanbluesky)
